@@ -1,5 +1,22 @@
 @charset "utf-8";
 
-h1 {
-  color: forestgreen;
+body {
+  background-image: url("https://www.publicdomainpictures.net/pictures/320000/velka/background-image.png");
+  //filter: blur(1.5rem);
+  //filter: opacity(50%);
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+  opacity: 0.6;
+  color: black;
+  font-size: 1.2em;
+  font-weight: 900;
+}
+
+#inscription {
+  margin-right: 50px;
+}
+
+a {
+  text-decoration: none;
 }

@@ -39,6 +39,7 @@
     "webpack-dev-server": "^4.4.0"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "nodemon": "^2.0.15"
   }
 }
